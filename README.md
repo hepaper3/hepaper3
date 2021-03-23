@@ -1,7 +1,6 @@
 - 👋 Haeun @hepaper3
-- 👀 Python & Django, 
-- 🌱 I’m currently learning AWS Certificate
-- 💞️ I’m looking to collaborate on ...
+- 👀 Python & Django & FastAPI, AWS SA 
+- 🌱 AWS SA Associate 공부 중!
 - 📫 hepaper3@gmail.com
 
 <!---
