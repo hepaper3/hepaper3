@@ -1,5 +1,5 @@
 - 👋 Haeun @hepaper3
-- 👀 Python & Django & FastAPI, AWS SA 
+- 👀 Python & Django & AWS
 - 🌱 AWS SA Associate 공부 중!
 - 📫 hepaper3@gmail.com
 
